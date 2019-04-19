@@ -1,0 +1,10 @@
+{
+    "goodnight": "|goodnight <person>\nTenshi will send that person a goodnight message and image. Tags also work. If you goodnight tenshi, she will goodnight you back.",
+    "kanade": "|kanade\n|kanade list: see available kanade art\n|kanade <art name>: Tenshi will send that art if available.",
+    "music": "|music join: Tenshi will join the VC you are in (must be in one)\n|music leave: will leave VC if in one\n|music list: will list the tracks she knows how to play\n|music play: will play a random track she knows\n|music play <track name>: will play a track if she knows it\n|music stop: will stop playing anything",
+    "recommend": "|recommend <genre>: will send a list of top recommendations for that genre\n\nAvailable genres:\naction\nromance\ncomedy\nmoe\nscifi",
+    "sebbe": "|sebbe <name>: Try it out on your server owner and see what happens ;)",
+    "smug": "|smug: will send a random anime girl smug face",
+    "kanade,": "secret tenshi commands that you can only learn from Tenshi's master. Tenshi loves master only uwu",
+    "weather": "|weather <location>: will send a report on the current weather in that area"
+}

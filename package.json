@@ -1,0 +1,19 @@
+{
+  "name": "tenshi",
+  "version": "1.0.0",
+  "description": "A Tachibana Kanade Themed Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louai Baydoun",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "opusscript": "0.0.6",
+    "request": "^2.88.0",
+    "unirest": "^0.6.0",
+    "unofficial-jisho-api": "^1.3.1"
+  }
+}
